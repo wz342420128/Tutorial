@@ -6,6 +6,7 @@ import java.util.List;
 public class fffff{
 	public static void add(List list,Object s){
 		list.add(s);
+		
 	}
 	public static void main(String[] args) {
 		List<String> list = new ArrayList<String>();
